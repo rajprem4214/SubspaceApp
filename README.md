@@ -26,7 +26,7 @@ This Express.js application serves as a blog analytics and search tool that fetc
 
 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/rajprem4214/SubspaceApp
 ```
 
 2. Install dependencies:
